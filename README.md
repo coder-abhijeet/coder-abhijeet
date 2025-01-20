@@ -10,7 +10,7 @@
 
 - 📫 Reach me at: **abhijeetv524@gmail.com**
 
-- 📄 Here is my [Resume](https://drive.google.com/file/d/1dCn88kjxAn_ZSlphOhUEvQzZZW62R6M7/view?usp=sharing)
+- 📄 Resume: [Abhijeet_Vishwakarma_Resume.pdf](https://drive.google.com/file/d/1dCn88kjxAn_ZSlphOhUEvQzZZW62R6M7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
