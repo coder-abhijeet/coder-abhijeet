@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/coder-abhijeet/](https://github.com/coder-abhijeet/)
+- 👨‍💻 All of my projects are available [here](https://github.com/coder-abhijeet/)
 
 - 💬 Ask me about **HTML, CSS and JS**
 
 - 📫 Reach me at: **abhijeetv524@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1EGH4fF2OEfGSFPlVfzzzFm-fTzkORhUw/view?usp=sharing](https://drive.google.com/file/d/1EGH4fF2OEfGSFPlVfzzzFm-fTzkORhUw/view?usp=sharing)
+- 📄 Here is my [Resume](https://drive.google.com/file/d/1dCn88kjxAn_ZSlphOhUEvQzZZW62R6M7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
